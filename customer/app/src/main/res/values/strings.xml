@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Customer</string>
+    <string name="signup">Signup</string>
+    <string name="username">username</string>
+    <string name="registor">Registor</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="already_signed_in_login">Already Signed in? Login</string>
+    <string name="phone_no">Phone No</string>
+    <string name="city">City</string>
+    <string name="nic">NIC</string>
+    <string name="pickup_location">Pickup Location</string>
+    <string name="place_order">Place Order</string>
+    <string name="name">Name</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="new_user_sign_up">New User? Sign Up!</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="google_maps_key">AIzaSyBNeRYa5eGqptE9y5Y4aQVqQoWIqEcDZ4s</string>
+
+    <string name="title_activity_splash">splash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>

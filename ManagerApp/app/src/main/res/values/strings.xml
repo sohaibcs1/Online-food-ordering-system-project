@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Manager</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="already_signed_in_login">Already Signed in? Login</string>
+    <string name="age">Age</string>
+    <string name="send_message">Send Message</string>
+    <string name="enter_phone_number">Enter Phone number</string>
+    <string name="send_message_to_ceo">Send Message to CEO</string>
+    <string name="todo">TODO</string>
+    <string name="uncomplete_order">Uncomplete Order</string>
+    <string name="add_delivery_boy">Add Delivery boy</string>
+    <string name="complete_order">Complete Order</string>
+    <string name="our_dilevery_boy">Our Dilevery boy</string>
+    <string name="exit">Exit</string>
+    <string name="nexus_the_navigation_system">NEXUS The Navigation System</string>
+    <string name="name">Name:</string>
+    <string name="nic">NIC:</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="order_id">Order id:</string>
+    <string name="date_and_time">Date and Time:</string>
+    <string name="pone">Pone:</string>
+    <string name="total_bill">Total Bill:</string>
+    <string name="address">Address:</string>
+    <string name="send_to_delivery_boy">Send To Delivery boy</string>
+</resources>

@@ -1,0 +1,151 @@
+{
+  "project_info": {
+    "project_number": "805320452692",
+    "firebase_url": "https://customer-ea16c.firebaseio.com",
+    "project_id": "customer-ea16c",
+    "storage_bucket": "customer-ea16c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805320452692:android:65b38b10221d7cac",
+        "android_client_info": {
+          "package_name": "com.gcu.msohaib.boy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805320452692-kcrnmmg9j0ac7i9iefvnd2b1a4pbuqtt.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "805320452692-kcrnmmg9j0ac7i9iefvnd2b1a4pbuqtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyi4hw8g5On8MdTxK881B0mCEdB-g8CXs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805320452692:android:9e929d2768213b57",
+        "android_client_info": {
+          "package_name": "com.gcu.msohaib.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805320452692-kcrnmmg9j0ac7i9iefvnd2b1a4pbuqtt.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "805320452692-kcrnmmg9j0ac7i9iefvnd2b1a4pbuqtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyi4hw8g5On8MdTxK881B0mCEdB-g8CXs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805320452692:android:d76ad5239bfb2db8",
+        "android_client_info": {
+          "package_name": "com.gcu.msohaib.managerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805320452692-kcrnmmg9j0ac7i9iefvnd2b1a4pbuqtt.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "805320452692-kcrnmmg9j0ac7i9iefvnd2b1a4pbuqtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyi4hw8g5On8MdTxK881B0mCEdB-g8CXs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805320452692:android:568609b47ce5f600",
+        "android_client_info": {
+          "package_name": "com.gcu.msohaib.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805320452692-kcrnmmg9j0ac7i9iefvnd2b1a4pbuqtt.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "805320452692-kcrnmmg9j0ac7i9iefvnd2b1a4pbuqtt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyi4hw8g5On8MdTxK881B0mCEdB-g8CXs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
