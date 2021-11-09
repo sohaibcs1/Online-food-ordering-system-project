@@ -8,7 +8,7 @@ Deliver products to customers is challenging nowadays for many delivery industri
 
 Can place order by entering his/her valid details such as Government ID, phone and destination location. <br>
 
-![screenshot](screenshot/c1.PNG) <img src="/screenshot/c1.PNG" width="225"/> &nbsp;&nbsp;&nbsp; <img src="/screenshot/c2.PNG" width="225"/> &nbsp;&nbsp;&nbsp;<img src="/screenshot/c4.PNG" width="225"/><br>
+![screenshot](screenshot/c1.png) <img src="/screenshot/c1.png" width="225"/> &nbsp;&nbsp;&nbsp; <img src="/screenshot/c2.PNG" width="225"/> &nbsp;&nbsp;&nbsp;<img src="/screenshot/c4.PNG" width="225"/><br>
 
 # 2end: Manager
 
