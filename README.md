@@ -14,7 +14,7 @@ Can place order by entering his/her valid details such as Government ID, phone a
 
 Manager can view complete or incomplete orders, can add/delete delivery boy and send incomplete order details to delivery boy as a notification for the delivery of the product. <br>
 
-<img src="/screenshot/c5.png" width="225"/> &nbsp;&nbsp;&nbsp;<img src="/screenshot/c6.PNG" width="png"/>&nbsp;&nbsp;&nbsp;<img src="/screenshot/c7.png" width="225"/><br>
+<img src="/screenshot/c5.png" width="225"/> &nbsp;&nbsp;&nbsp;<img src="/screenshot/c6.png" width="png"/>&nbsp;&nbsp;&nbsp;<img src="/screenshot/c7.png" width="225"/><br>
 
 # 3rd: Delivery Boy
 
